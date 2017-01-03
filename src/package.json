@@ -1,0 +1,15 @@
+{
+  "name": "angular2-preboot-electron",
+  "productName": "angular2-preboot-electron",
+  "version": "1.0.0",
+  "description": "Boilerplate Electron app with Angular 2.",
+  "main": "./boot.bundle.js",
+  "author": {
+    "name": "Sebastian Döll",
+    "email": "sebastian@pixelmilk.com",
+    "url": "https://katallaxie.me"
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
